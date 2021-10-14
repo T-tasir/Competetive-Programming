@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1571278814 source:e:\c++\octobor 2019\anisul c++\mysecodproject\main.cpp
+	<iostream>
+	"mysecondclass.h"
+
+1571278752 e:\c++\octobor 2019\anisul c++\mysecodproject\mysecondclass.h
+	"mysecondclass.h"
+
+1571300278 source:e:\c++\octobor 2019\anisul c++\mysecodproject\mysecondclass.cpp
+	"mysecondclass.h"
+	<bits/stdc++.h>
+
